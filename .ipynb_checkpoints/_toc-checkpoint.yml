@@ -6,5 +6,4 @@ root: intro
 chapters:
 - file: markdown
 - file: notebooks
-- file: contenido
-- file: intro2
+- file: markdown-notebooks

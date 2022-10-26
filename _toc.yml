@@ -4,9 +4,8 @@
 format: jb-book
 root: contenido
 chapters:
-- file: contenido
-- file: 20200918_r1 (1)
-- file: 20200918_r2 (1)
-- file: 20200918_r3 (1)
-- file: 20200918_r4 (1)
-- file: 20200918_r5 (1)
+- file: MODELO INGRESO-GASTO
+- file: CURVA IS
+- file: MERCADO MONETARIO
+- file: MODELO IS-LM
+- file: MODELO DA-OA

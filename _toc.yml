@@ -2,9 +2,11 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
+root: contenido
 chapters:
-- file: markdown
-- file: notebooks
 - file: contenido
-- file: intro2
+- file: 20200918_r1 (1)
+- file: 20200918_r2 (1)
+- file: 20200918_r3 (1)
+- file: 20200918_r4 (1)
+- file: 20200918_r5 (1)
